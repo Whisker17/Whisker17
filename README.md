@@ -17,11 +17,12 @@
 </a>
 
 <br>
+
+<img src="https://github.com/Whisker17/Whisker17/blob/main/src/Word%20Art.jpeg" alt="Whisker" width="350" height="350" align="right">
+
+
 <br>
 <br>
-
-<img src="https://github.com/Whisker17/Whisker17/blob/main/src/Word%20Art.jpeg" alt="Whisker" width="250" height="250" align="right">
-
 
 ```Go
 const Joe = {
