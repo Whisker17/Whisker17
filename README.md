@@ -12,7 +12,7 @@
 
 ![](https://img.shields.io/badge/dynamic/json?color=000000&label=Github&query=%24.data.totalSubs&suffix=Followers&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3DWhisker17)
 
-<img src="https://raw.githubusercontent.com/rexwangcc/rexwangcc/master/myself.png" alt="Rex!" width="450" height="250" align="right">
+<img src="https://github.com/Whisker17/Whisker17/blob/main/src/Word%20Art.jpeg" alt="Whisker" width="450" height="450" align="center">
 
 ```Go
 const Joe = {
