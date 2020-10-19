@@ -25,7 +25,7 @@
 <br>
 
 ```Go
-const Joe = {
+const Whisker = {
   pronouns = "male",
   code = []string{"Golang", "Python", "C++"},
   tools = []string{
