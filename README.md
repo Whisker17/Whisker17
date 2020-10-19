@@ -13,12 +13,12 @@
 </a>
 
 <a href="https://github.com/Whisker17">
-  <img align="left" alt="Whisker's github" width="100px" src="https://img.shields.io/badge/dynamic/json?color=000000&label=Github&query=%24.data.totalSubs&suffix=Followers&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3DWhisker17" />
+  <img align="left" alt="Whisker's github" width="130px" src="https://img.shields.io/badge/dynamic/json?color=000000&label=Github&query=%24.data.totalSubs&suffix=Followers&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3DWhisker17" />
 </a>
 
 <br>
 
-<img src="https://github.com/Whisker17/Whisker17/blob/main/src/Word%20Art.jpeg" alt="Whisker" width="350" height="350" align="right">
+<img src="https://github.com/Whisker17/Whisker17/blob/main/src/Word%20Art.jpeg" alt="Whisker" width="300" height="300" align="right">
 
 
 <br>
