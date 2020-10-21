@@ -26,7 +26,7 @@
 
 ```Go
 const Whisker = {
-  pronouns = "male",
+  pronouns = "he",
   code = []string{"Golang", "Python", "C++"},
   tools = []string{
     "Blockchain",
