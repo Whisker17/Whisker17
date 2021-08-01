@@ -37,8 +37,10 @@ const Whisker = {
   learning: []string{
     "ZKP",
     "Quant",
+    “Prediction Market”，
+    “Futarchy”，
   }
-  contact: "yukaijun123456@163.com",
+  contact: "whisker@zeitgeist.pm",
 }
 ```
 
