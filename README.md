@@ -23,6 +23,12 @@
 ### Recent Activity
 
 <!--START_SECTION:activity-->
+1. ❗️ Opened issue [#6](https://github.com/Whisker17/Whisker17/issues/6) in [Whisker17/Whisker17](https://github.com/Whisker17/Whisker17)
+2. ❗️ Opened issue [#5](https://github.com/Whisker17/Whisker17/issues/5) in [Whisker17/Whisker17](https://github.com/Whisker17/Whisker17)
+3. ❗️ Opened issue [#4](https://github.com/Whisker17/Whisker17/issues/4) in [Whisker17/Whisker17](https://github.com/Whisker17/Whisker17)
+4. ❗️ Opened issue [#3](https://github.com/Whisker17/Whisker17/issues/3) in [Whisker17/Whisker17](https://github.com/Whisker17/Whisker17)
+5. ❗️ Opened issue [#2](https://github.com/Whisker17/Whisker17/issues/2) in [Whisker17/Whisker17](https://github.com/Whisker17/Whisker17)
+<!--END_SECTION:activity-->
 
 <summary>📈 My GitHub Stats</summary>
 <br/>
