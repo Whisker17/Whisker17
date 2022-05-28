@@ -1,11 +1,28 @@
-## Hi This is Whisker17 👋
+<h1 align="center">Hi 👋, I'm Whisker17</h1>
+<h3 align="center">Previous blockchain back-end dev, work as a developer advocate currently</h3>
 
-[![](https://visitcount.itsvg.in/api?id=Whisker17&icon=0&color=0)](https://visitcount.itsvg.in)
+<p align="left"> <img src="https://visitcount.itsvg.in/api?id=Whisker17&icon=0&color=0" alt="whisker17" /> </p>
 
-### 🌐Socials
+- 🔭 I’m currently working on [**Zeitgeist**](https://zeitgeist.pm/)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/whisker-yu-a865ba87/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/0xWhisker)<br/>
+- 🌱 I’m currently learning **Futarchy,zkSNARKs,zkSTARKs**
+
+- 👨‍💻 All of my projects are available at [**https://github.com/Whisker17**](https://github.com/Whisker17)
+
+- 📫 How to reach me **whisker17@zeitgeist.pm**
+
+<h3 align="left">Connect with me</h3>
+<p align="left">
+<a href="https://twitter.com/0xwhisker" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="0xwhisker" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/whisker yu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="whisker yu" height="30" width="40" /></a><br/>
+
 ![Discord](https://dcbadge.vercel.app/api/shield/838241018943111178)
+
+</p>
+
+### Recent Activity
+
+<!--START_SECTION:activity-->
 
 <summary>📈 My GitHub Stats</summary>
 <br/>
