@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Whisker17</h1>
+<h1 align="center"> <img src="./src/profile.png" alt="whisker17" /> </h1>
 <h3 align="center">Previous blockchain back-end dev, work as a developer advocate currently</h3>
 
 <p align="left"> <img src="https://visitcount.itsvg.in/api?id=Whisker17&icon=0&color=0" alt="whisker17" /> </p>
