@@ -1,5 +1,6 @@
 <h1 align="center"> <img src="./src/profile.png" alt="whisker17" /> </h1>
-<h3 align="center">Previous blockchain back-end dev, work as a developer advocate currently</h3>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=6000&color=000000&multiline=true&width=450&height=60&lines=Previous+blockchain+back-end+dev;Work+as+a+developer+advocate+currently)](https://git.io/typing-svg)
 
 <p align="left"> <img src="https://visitcount.itsvg.in/api?id=Whisker17&icon=0&color=0" alt="whisker17" /> </p>
 
@@ -23,6 +24,7 @@
 ### Recent Activity
 
 <!--START_SECTION:activity-->
+
 1. ❗️ Opened issue [#6](https://github.com/Whisker17/Whisker17/issues/6) in [Whisker17/Whisker17](https://github.com/Whisker17/Whisker17)
 2. ❗️ Opened issue [#5](https://github.com/Whisker17/Whisker17/issues/5) in [Whisker17/Whisker17](https://github.com/Whisker17/Whisker17)
 3. ❗️ Opened issue [#4](https://github.com/Whisker17/Whisker17/issues/4) in [Whisker17/Whisker17](https://github.com/Whisker17/Whisker17)
