@@ -48,6 +48,8 @@
 
 ![](https://github-profile-trophy.vercel.app/?username=Whisker17&theme=monokai&no-frame=false&no-bg=false&margin-w=4)
 
+![Metrics](/github-metrics.svg)
+
 ![](./profile-3d-contrib/profile-green-animate.svg)
 
 ### 💻Tech Stack
