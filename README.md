@@ -25,11 +25,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#6](https://github.com/Whisker17/Zeitgeist-Report/pull/6) in [Whisker17/Zeitgeist-Report](https://github.com/Whisker17/Zeitgeist-Report)
-2. ❗️ Opened issue [#6](https://github.com/Whisker17/Whisker17/issues/6) in [Whisker17/Whisker17](https://github.com/Whisker17/Whisker17)
-3. ❗️ Opened issue [#5](https://github.com/Whisker17/Whisker17/issues/5) in [Whisker17/Whisker17](https://github.com/Whisker17/Whisker17)
-4. ❗️ Opened issue [#4](https://github.com/Whisker17/Whisker17/issues/4) in [Whisker17/Whisker17](https://github.com/Whisker17/Whisker17)
-5. ❗️ Opened issue [#3](https://github.com/Whisker17/Whisker17/issues/3) in [Whisker17/Whisker17](https://github.com/Whisker17/Whisker17)
+1. 🎉 Merged PR [#7](https://github.com/Whisker17/Zeitgeist-Report/pull/7) in [Whisker17/Zeitgeist-Report](https://github.com/Whisker17/Zeitgeist-Report)
+2. 🎉 Merged PR [#6](https://github.com/Whisker17/Zeitgeist-Report/pull/6) in [Whisker17/Zeitgeist-Report](https://github.com/Whisker17/Zeitgeist-Report)
+3. ❗️ Opened issue [#6](https://github.com/Whisker17/Whisker17/issues/6) in [Whisker17/Whisker17](https://github.com/Whisker17/Whisker17)
+4. ❗️ Opened issue [#5](https://github.com/Whisker17/Whisker17/issues/5) in [Whisker17/Whisker17](https://github.com/Whisker17/Whisker17)
+5. ❗️ Opened issue [#4](https://github.com/Whisker17/Whisker17/issues/4) in [Whisker17/Whisker17](https://github.com/Whisker17/Whisker17)
 <!--END_SECTION:activity-->
 
 <summary>📈 My GitHub Stats</summary>
