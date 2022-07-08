@@ -25,11 +25,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#9](https://github.com/Whisker17/Zeitgeist-Report/pull/9) in [Whisker17/Zeitgeist-Report](https://github.com/Whisker17/Zeitgeist-Report)
-2. 🎉 Merged PR [#8](https://github.com/Whisker17/Zeitgeist-Report/pull/8) in [Whisker17/Zeitgeist-Report](https://github.com/Whisker17/Zeitgeist-Report)
-3. 🎉 Merged PR [#53](https://github.com/zeitgeistpm/documentation/pull/53) in [zeitgeistpm/documentation](https://github.com/zeitgeistpm/documentation)
-4. 💪 Opened PR [#53](https://github.com/zeitgeistpm/documentation/pull/53) in [zeitgeistpm/documentation](https://github.com/zeitgeistpm/documentation)
-5. 🎉 Merged PR [#52](https://github.com/zeitgeistpm/documentation/pull/52) in [zeitgeistpm/documentation](https://github.com/zeitgeistpm/documentation)
+1. 🗣 Commented on [#1](https://github.com/Whisker17/sdk-demo/issues/1) in [Whisker17/sdk-demo](https://github.com/Whisker17/sdk-demo)
+2. 🗣 Commented on [#1](https://github.com/Whisker17/sdk-demo/issues/1) in [Whisker17/sdk-demo](https://github.com/Whisker17/sdk-demo)
+3. 🗣 Commented on [#1](https://github.com/Whisker17/sdk-demo/issues/1) in [Whisker17/sdk-demo](https://github.com/Whisker17/sdk-demo)
+4. 🗣 Commented on [#1](https://github.com/Whisker17/sdk-demo/issues/1) in [Whisker17/sdk-demo](https://github.com/Whisker17/sdk-demo)
+5. 🗣 Commented on [#1](https://github.com/Whisker17/sdk-demo/issues/1) in [Whisker17/sdk-demo](https://github.com/Whisker17/sdk-demo)
 <!--END_SECTION:activity-->
 
 <summary>📈 My GitHub Stats</summary>
