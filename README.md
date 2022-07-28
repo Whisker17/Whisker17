@@ -25,10 +25,10 @@
 
 <!--START_SECTION:activity-->
 
-1. ❌ Closed PR [#1](https://github.com/Whisker17/zeitgeist-token-api/pull/1) in [Whisker17/zeitgeist-token-api](https://github.com/Whisker17/zeitgeist-token-api)
-2. 💪 Opened PR [#1](https://github.com/Whisker17/zeitgeist-token-api/pull/1) in [Whisker17/zeitgeist-token-api](https://github.com/Whisker17/zeitgeist-token-api)
-3. 🗣 Commented on [#1](https://github.com/Whisker17/sdk-demo/issues/1) in [Whisker17/sdk-demo](https://github.com/Whisker17/sdk-demo)
-4. 🗣 Commented on [#1](https://github.com/Whisker17/sdk-demo/issues/1) in [Whisker17/sdk-demo](https://github.com/Whisker17/sdk-demo)
+1. 🎉 Merged PR [#2](https://github.com/zeitgeistpm/zeitgeist-token-api/pull/2) in [zeitgeistpm/zeitgeist-token-api](https://github.com/zeitgeistpm/zeitgeist-token-api)
+2. 💪 Opened PR [#2](https://github.com/zeitgeistpm/zeitgeist-token-api/pull/2) in [zeitgeistpm/zeitgeist-token-api](https://github.com/zeitgeistpm/zeitgeist-token-api)
+3. ❌ Closed PR [#1](https://github.com/Whisker17/zeitgeist-token-api/pull/1) in [Whisker17/zeitgeist-token-api](https://github.com/Whisker17/zeitgeist-token-api)
+4. 💪 Opened PR [#1](https://github.com/Whisker17/zeitgeist-token-api/pull/1) in [Whisker17/zeitgeist-token-api](https://github.com/Whisker17/zeitgeist-token-api)
 5. 🗣 Commented on [#1](https://github.com/Whisker17/sdk-demo/issues/1) in [Whisker17/sdk-demo](https://github.com/Whisker17/sdk-demo)
 <!--END_SECTION:activity-->
 
