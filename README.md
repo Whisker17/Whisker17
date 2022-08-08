@@ -25,11 +25,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#51](https://github.com/zeitgeistpm/documentation/issues/51) in [zeitgeistpm/documentation](https://github.com/zeitgeistpm/documentation)
+1. ❌ Closed PR [#51](https://github.com/zeitgeistpm/documentation/pull/51) in [zeitgeistpm/documentation](https://github.com/zeitgeistpm/documentation)
 2. 🗣 Commented on [#51](https://github.com/zeitgeistpm/documentation/issues/51) in [zeitgeistpm/documentation](https://github.com/zeitgeistpm/documentation)
-3. 🎉 Merged PR [#12](https://github.com/Whisker17/Zeitgeist-Report/pull/12) in [Whisker17/Zeitgeist-Report](https://github.com/Whisker17/Zeitgeist-Report)
-4. 🎉 Merged PR [#11](https://github.com/Whisker17/Zeitgeist-Report/pull/11) in [Whisker17/Zeitgeist-Report](https://github.com/Whisker17/Zeitgeist-Report)
-5. 🎉 Merged PR [#10](https://github.com/Whisker17/Zeitgeist-Report/pull/10) in [Whisker17/Zeitgeist-Report](https://github.com/Whisker17/Zeitgeist-Report)
+3. 🗣 Commented on [#51](https://github.com/zeitgeistpm/documentation/issues/51) in [zeitgeistpm/documentation](https://github.com/zeitgeistpm/documentation)
+4. 🎉 Merged PR [#12](https://github.com/Whisker17/Zeitgeist-Report/pull/12) in [Whisker17/Zeitgeist-Report](https://github.com/Whisker17/Zeitgeist-Report)
+5. 🎉 Merged PR [#11](https://github.com/Whisker17/Zeitgeist-Report/pull/11) in [Whisker17/Zeitgeist-Report](https://github.com/Whisker17/Zeitgeist-Report)
 <!--END_SECTION:activity-->
 
 <summary>📈 My GitHub Stats</summary>
