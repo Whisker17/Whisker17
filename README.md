@@ -25,10 +25,10 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#58](https://github.com/zeitgeistpm/documentation/issues/58) in [zeitgeistpm/documentation](https://github.com/zeitgeistpm/documentation)
-2. 💪 Opened PR [#58](https://github.com/zeitgeistpm/documentation/pull/58) in [zeitgeistpm/documentation](https://github.com/zeitgeistpm/documentation)
-3. ❌ Closed PR [#51](https://github.com/zeitgeistpm/documentation/pull/51) in [zeitgeistpm/documentation](https://github.com/zeitgeistpm/documentation)
-4. 🗣 Commented on [#51](https://github.com/zeitgeistpm/documentation/issues/51) in [zeitgeistpm/documentation](https://github.com/zeitgeistpm/documentation)
+1. 🎉 Merged PR [#4](https://github.com/zeitgeistpm/zeitgeist-token-api/pull/4) in [zeitgeistpm/zeitgeist-token-api](https://github.com/zeitgeistpm/zeitgeist-token-api)
+2. 🗣 Commented on [#58](https://github.com/zeitgeistpm/documentation/issues/58) in [zeitgeistpm/documentation](https://github.com/zeitgeistpm/documentation)
+3. 💪 Opened PR [#58](https://github.com/zeitgeistpm/documentation/pull/58) in [zeitgeistpm/documentation](https://github.com/zeitgeistpm/documentation)
+4. ❌ Closed PR [#51](https://github.com/zeitgeistpm/documentation/pull/51) in [zeitgeistpm/documentation](https://github.com/zeitgeistpm/documentation)
 5. 🗣 Commented on [#51](https://github.com/zeitgeistpm/documentation/issues/51) in [zeitgeistpm/documentation](https://github.com/zeitgeistpm/documentation)
 <!--END_SECTION:activity-->
 
