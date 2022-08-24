@@ -25,9 +25,9 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#58](https://github.com/zeitgeistpm/documentation/issues/58) in [zeitgeistpm/documentation](https://github.com/zeitgeistpm/documentation)
-2. 💪 Opened PR [#62](https://github.com/zeitgeistpm/documentation/pull/62) in [zeitgeistpm/documentation](https://github.com/zeitgeistpm/documentation)
-3. 🗣 Commented on [#58](https://github.com/zeitgeistpm/documentation/issues/58) in [zeitgeistpm/documentation](https://github.com/zeitgeistpm/documentation)
+1. ❌ Closed PR [#62](https://github.com/zeitgeistpm/documentation/pull/62) in [zeitgeistpm/documentation](https://github.com/zeitgeistpm/documentation)
+2. 🗣 Commented on [#58](https://github.com/zeitgeistpm/documentation/issues/58) in [zeitgeistpm/documentation](https://github.com/zeitgeistpm/documentation)
+3. 💪 Opened PR [#62](https://github.com/zeitgeistpm/documentation/pull/62) in [zeitgeistpm/documentation](https://github.com/zeitgeistpm/documentation)
 4. 🗣 Commented on [#58](https://github.com/zeitgeistpm/documentation/issues/58) in [zeitgeistpm/documentation](https://github.com/zeitgeistpm/documentation)
 5. 🗣 Commented on [#58](https://github.com/zeitgeistpm/documentation/issues/58) in [zeitgeistpm/documentation](https://github.com/zeitgeistpm/documentation)
 <!--END_SECTION:activity-->
