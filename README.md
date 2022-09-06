@@ -25,10 +25,10 @@
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#13](https://github.com/Whisker17/Zeitgeist-Report/pull/13) in [Whisker17/Zeitgeist-Report](https://github.com/Whisker17/Zeitgeist-Report)
-2. ❌ Closed PR [#62](https://github.com/zeitgeistpm/documentation/pull/62) in [zeitgeistpm/documentation](https://github.com/zeitgeistpm/documentation)
-3. 🗣 Commented on [#58](https://github.com/zeitgeistpm/documentation/issues/58) in [zeitgeistpm/documentation](https://github.com/zeitgeistpm/documentation)
-4. 💪 Opened PR [#62](https://github.com/zeitgeistpm/documentation/pull/62) in [zeitgeistpm/documentation](https://github.com/zeitgeistpm/documentation)
+1. 🎉 Merged PR [#14](https://github.com/Whisker17/Zeitgeist-Report/pull/14) in [Whisker17/Zeitgeist-Report](https://github.com/Whisker17/Zeitgeist-Report)
+2. 💪 Opened PR [#41](https://github.com/aszepieniec/stark-brainfuck/pull/41) in [aszepieniec/stark-brainfuck](https://github.com/aszepieniec/stark-brainfuck)
+3. 🎉 Merged PR [#13](https://github.com/Whisker17/Zeitgeist-Report/pull/13) in [Whisker17/Zeitgeist-Report](https://github.com/Whisker17/Zeitgeist-Report)
+4. ❌ Closed PR [#62](https://github.com/zeitgeistpm/documentation/pull/62) in [zeitgeistpm/documentation](https://github.com/zeitgeistpm/documentation)
 5. 🗣 Commented on [#58](https://github.com/zeitgeistpm/documentation/issues/58) in [zeitgeistpm/documentation](https://github.com/zeitgeistpm/documentation)
 <!--END_SECTION:activity-->
 
