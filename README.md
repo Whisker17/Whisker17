@@ -25,11 +25,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#223](https://github.com/zeitgeistpm/tools/pull/223) in [zeitgeistpm/tools](https://github.com/zeitgeistpm/tools)
-2. 💪 Opened PR [#65](https://github.com/zeitgeistpm/documentation/pull/65) in [zeitgeistpm/documentation](https://github.com/zeitgeistpm/documentation)
-3. ❌ Closed PR [#64](https://github.com/zeitgeistpm/documentation/pull/64) in [zeitgeistpm/documentation](https://github.com/zeitgeistpm/documentation)
-4. 💪 Opened PR [#64](https://github.com/zeitgeistpm/documentation/pull/64) in [zeitgeistpm/documentation](https://github.com/zeitgeistpm/documentation)
-5. 💪 Opened PR [#63](https://github.com/zeitgeistpm/documentation/pull/63) in [zeitgeistpm/documentation](https://github.com/zeitgeistpm/documentation)
+1. 🎉 Merged PR [#16](https://github.com/Whisker17/Zeitgeist-Report/pull/16) in [Whisker17/Zeitgeist-Report](https://github.com/Whisker17/Zeitgeist-Report)
+2. 🎉 Merged PR [#15](https://github.com/Whisker17/Zeitgeist-Report/pull/15) in [Whisker17/Zeitgeist-Report](https://github.com/Whisker17/Zeitgeist-Report)
+3. 💪 Opened PR [#223](https://github.com/zeitgeistpm/tools/pull/223) in [zeitgeistpm/tools](https://github.com/zeitgeistpm/tools)
+4. 💪 Opened PR [#65](https://github.com/zeitgeistpm/documentation/pull/65) in [zeitgeistpm/documentation](https://github.com/zeitgeistpm/documentation)
+5. ❌ Closed PR [#64](https://github.com/zeitgeistpm/documentation/pull/64) in [zeitgeistpm/documentation](https://github.com/zeitgeistpm/documentation)
 <!--END_SECTION:activity-->
 
 <summary>📈 My GitHub Stats</summary>
