@@ -25,11 +25,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#3](https://github.com/zeitgeistpm/zeitgeist-dashboard/issues/3) in [zeitgeistpm/zeitgeist-dashboard](https://github.com/zeitgeistpm/zeitgeist-dashboard)
-2. ❗️ Opened issue [#3](https://github.com/zeitgeistpm/zeitgeist-dashboard/issues/3) in [zeitgeistpm/zeitgeist-dashboard](https://github.com/zeitgeistpm/zeitgeist-dashboard)
-3. 🎉 Merged PR [#23](https://github.com/Whisker17/Zeitgeist-Report/pull/23) in [Whisker17/Zeitgeist-Report](https://github.com/Whisker17/Zeitgeist-Report)
-4. 🎉 Merged PR [#22](https://github.com/Whisker17/Zeitgeist-Report/pull/22) in [Whisker17/Zeitgeist-Report](https://github.com/Whisker17/Zeitgeist-Report)
-5. 🎉 Merged PR [#21](https://github.com/Whisker17/Zeitgeist-Report/pull/21) in [Whisker17/Zeitgeist-Report](https://github.com/Whisker17/Zeitgeist-Report)
+1. 🎉 Merged PR [#8](https://github.com/zeitgeistpm/zeitgeist-token-api/pull/8) in [zeitgeistpm/zeitgeist-token-api](https://github.com/zeitgeistpm/zeitgeist-token-api)
+2. 💪 Opened PR [#8](https://github.com/zeitgeistpm/zeitgeist-token-api/pull/8) in [zeitgeistpm/zeitgeist-token-api](https://github.com/zeitgeistpm/zeitgeist-token-api)
+3. 🗣 Commented on [#3](https://github.com/zeitgeistpm/zeitgeist-dashboard/issues/3) in [zeitgeistpm/zeitgeist-dashboard](https://github.com/zeitgeistpm/zeitgeist-dashboard)
+4. ❗️ Opened issue [#3](https://github.com/zeitgeistpm/zeitgeist-dashboard/issues/3) in [zeitgeistpm/zeitgeist-dashboard](https://github.com/zeitgeistpm/zeitgeist-dashboard)
+5. 🎉 Merged PR [#23](https://github.com/Whisker17/Zeitgeist-Report/pull/23) in [Whisker17/Zeitgeist-Report](https://github.com/Whisker17/Zeitgeist-Report)
 <!--END_SECTION:activity-->
 
 <summary>📈 My GitHub Stats</summary>
