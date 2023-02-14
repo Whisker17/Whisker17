@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [**https://github.com/Whisker17**](https://github.com/Whisker17)
 
-- 📫 How to reach me **whisker17@zeitgeist.pm**
+- 📫 How to reach me **demiwhisker@gmail.com**
 
 <h3 align="left">Connect with me</h3>
 <p align="left">
