@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://visitcount.itsvg.in/api?id=Whisker17&icon=0&color=0" alt="whisker17" /> </p>
 
-- 🔭 I’m currently working on [**Zeitgeist**](https://zeitgeist.pm/)
+- 🔭 I’m currently working on DevRel and research, prev. [**Zeitgeist**](https://zeitgeist.pm/)
 
 - 🌱 I’m currently learning **Futarchy,zkSNARKs,zkSTARKs**
 
