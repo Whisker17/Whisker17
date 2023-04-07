@@ -26,10 +26,10 @@
 <!--START_SECTION:activity-->
 
 1. 💪 Opened PR [#1](https://github.com/WTFAcademy/WTF-Rust/pull/1) in [WTFAcademy/WTF-Rust](https://github.com/WTFAcademy/WTF-Rust)
-2. 💪 Opened PR [#10](https://github.com/zeitgeistpm/zeitgeist-token-api/pull/10) in [zeitgeistpm/zeitgeist-token-api](https://github.com/zeitgeistpm/zeitgeist-token-api)
-3. 🎉 Merged PR [#9](https://github.com/zeitgeistpm/zeitgeist-token-api/pull/9) in [zeitgeistpm/zeitgeist-token-api](https://github.com/zeitgeistpm/zeitgeist-token-api)
-4. 💪 Opened PR [#9](https://github.com/zeitgeistpm/zeitgeist-token-api/pull/9) in [zeitgeistpm/zeitgeist-token-api](https://github.com/zeitgeistpm/zeitgeist-token-api)
-5. 🎉 Merged PR [#8](https://github.com/zeitgeistpm/zeitgeist-token-api/pull/8) in [zeitgeistpm/zeitgeist-token-api](https://github.com/zeitgeistpm/zeitgeist-token-api)
+2. 🎉 Merged PR [#10](https://github.com/zeitgeistpm/zeitgeist-token-api/pull/10) in [zeitgeistpm/zeitgeist-token-api](https://github.com/zeitgeistpm/zeitgeist-token-api)
+3. 💪 Opened PR [#10](https://github.com/zeitgeistpm/zeitgeist-token-api/pull/10) in [zeitgeistpm/zeitgeist-token-api](https://github.com/zeitgeistpm/zeitgeist-token-api)
+4. 🎉 Merged PR [#9](https://github.com/zeitgeistpm/zeitgeist-token-api/pull/9) in [zeitgeistpm/zeitgeist-token-api](https://github.com/zeitgeistpm/zeitgeist-token-api)
+5. 💪 Opened PR [#9](https://github.com/zeitgeistpm/zeitgeist-token-api/pull/9) in [zeitgeistpm/zeitgeist-token-api](https://github.com/zeitgeistpm/zeitgeist-token-api)
 <!--END_SECTION:activity-->
 
 <summary>📈 My GitHub Stats</summary>
