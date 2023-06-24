@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://visitcount.itsvg.in/api?id=Whisker17&icon=0&color=0" alt="whisker17" /> </p>
 
-- 🔭 I’m currently working on DevRel and research, prev. [**Zeitgeist**](https://zeitgeist.pm/)
+- 🔭 I’m currently working on DevRel and research
 
-- 🌱 I’m currently learning **Futarchy,zkSNARKs,zkSTARKs**
+- 🌱 I’m currently learning **Modular Blockchain Design,zkSNARKs,zkSTARKs**
 
 - 👨‍💻 All of my projects are available at [**https://github.com/Whisker17**](https://github.com/Whisker17)
 
@@ -17,20 +17,7 @@
 <a href="https://twitter.com/0xwhisker" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="0xwhisker" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/whisker yu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="whisker yu" height="30" width="40" /></a><br/>
 
-![Discord](https://dcbadge.vercel.app/api/shield/838241018943111178)
-
 </p>
-
-### Recent Activity
-
-<!--START_SECTION:activity-->
-
-1. ❗ Opened issue [#2](https://github.com/Whisker17/obsidian-sync/issues/2) in [Whisker17/obsidian-sync](https://github.com/Whisker17/obsidian-sync)
-2. 💪 Opened PR [#1](https://github.com/WTFAcademy/WTF-Rust/pull/1) in [WTFAcademy/WTF-Rust](https://github.com/WTFAcademy/WTF-Rust)
-3. 💪 Opened PR [#10](https://github.com/zeitgeistpm/zeitgeist-token-api/pull/10) in [zeitgeistpm/zeitgeist-token-api](https://github.com/zeitgeistpm/zeitgeist-token-api)
-4. 🎉 Merged PR [#9](https://github.com/zeitgeistpm/zeitgeist-token-api/pull/9) in [zeitgeistpm/zeitgeist-token-api](https://github.com/zeitgeistpm/zeitgeist-token-api)
-5. 💪 Opened PR [#9](https://github.com/zeitgeistpm/zeitgeist-token-api/pull/9) in [zeitgeistpm/zeitgeist-token-api](https://github.com/zeitgeistpm/zeitgeist-token-api)
-<!--END_SECTION:activity-->
 
 <summary>📈 My GitHub Stats</summary>
 <br/>
@@ -38,19 +25,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=Whisker17&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/><br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Whisker17&theme=radical&hide_border=false)<br/>
 
-<summary>📊 My Langs Stats</summary>
-<br/>
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Whisker17&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-<summary>🏆GitHub Trophies</summary>
-<br/>
-
-![](https://github-profile-trophy.vercel.app/?username=Whisker17&theme=monokai&no-frame=false&no-bg=false&margin-w=4)
-
-![Metrics](/github-metrics.svg)
-
-![](./profile-3d-contrib/profile-gitblock.svg)
 
 ### 💻Tech Stack
 
