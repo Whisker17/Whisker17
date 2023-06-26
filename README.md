@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=6000&color=000000&multiline=true&width=450&height=60&lines=Previous+blockchain+back-end+dev;Work+as+a+developer+advocate+currently)](https://git.io/typing-svg)
 
-- 🔭 I’m currently working on DevRel and research
+- 🔭 I’m currently working on DevRel and Technical Writer.
 
 - 🌱 I’m currently learning **Modular Blockchain Design,zkSNARKs,zkSTARKs**
 
