@@ -20,7 +20,7 @@
 <summary>📈 My GitHub Stats</summary>
 <br/>
 
-![](https://github-readme-stats.vercel.app/api?username=Whisker17&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/><br/>
+![](https://github-readme-stats.vercel.app/api?username=Whisker17&theme=radical&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)<br/><br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Whisker17&theme=radical&hide_border=false)<br/>
 
 
