@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working as a **DevRel** and **Technical Writer**.
 
-- 🌱 I’m currently learning **Modular Blockchain Design, Substrate and ink! ecosystem**
+- 🌱 I’m currently learning **ZKP, Modular Blockchain Design, Substrate, and ink! ecosystem**
 
 - 👨‍💻 All of my projects are available at [**https://github.com/Whisker17**](https://github.com/Whisker17)
 
