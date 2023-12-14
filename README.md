@@ -1,7 +1,4 @@
-<h1 align="center"> <img src="./src/github-header-image.png" alt="whisker17" /> </h1>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=6000&color=000000&multiline=true&width=450&height=60&lines=Previous+blockchain+back-end+dev;Work+as+a+developer+advocate+currently)](https://git.io/typing-svg)
-
+---
 - 🔭 I’m currently working as a **DevRel** and **Technical Writer**.
 
 - 🌱 I’m currently learning **ZKP, Modular Blockchain Design, Substrate, and ink! ecosystem**
