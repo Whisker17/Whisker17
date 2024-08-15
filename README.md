@@ -1,5 +1,5 @@
 ---
-- 🔭 I’m currently working as a **DevRel** and **Technical Writer**.
+- 🔭 I’m currently working as a **Protocol Researcher** and **Technical Writer**.
 
 - 🌱 I’m currently learning **ZKP, Modular Blockchain Design, Substrate, and ink! ecosystem**
 
